@@ -1,0 +1,22 @@
+html,
+body {
+  overflow: hidden;
+  margin: 0px;
+  padding: 0px;
+  height: 100%;
+}
+
+#cesiumContainer {
+  height: 97.5%;
+}
+
+#myProgress {
+  width: 100%;
+  background-color: grey;
+}
+
+#myBar {
+  width: 1%;
+  height: 24px;
+  background-color: green;
+}
